@@ -1,6 +1,7 @@
 <div align="left" markdown="1">
 
-[**گزارش  مشکلات و ارسال مطلب**](https://github.com/LaneZero/Blue-Team-Interview/issues)&nbsp;&nbsp;&nbsp;[**سوالات تست نفوذ وب**](https://github.com/soheilsec/WAP-Interview)&nbsp;&nbsp;&nbsp;[**سوالات تست نفوذ شبکه**](https://github.com/soheilsec/Network-pentest-Interview)&nbsp;&nbsp;&nbsp;[**سوالات تست نفوذ موبایل**](https://github.com/soheilsec/mobile-App-Pentest-Interview)&nbsp;&nbsp;&nbsp;[**سوالات تست رد تیم**](https://github.com/soheilsec/RedTeam-Interview)&nbsp;&nbsp;&nbsp;[**سوالات تست بلو تیم**](https://github.com/soheilsec/Blue-Team-Interview)
+[**گزارش  مشکلات و ارسال مطلب**](https://github.com/LaneZero/Blue-Team-Interview/issues)&nbsp;&nbsp;&nbsp;[**سوالات تست نفوذ وب**](https://github.com/soheilsec/WAP-Interview)&nbsp;&nbsp;&nbsp;[**سوالات تست نفوذ شبکه**](https://github.com/soheilsec/Network-pentest-Interview)&nbsp;&nbsp;&nbsp;[**سوالات تست نفوذ موبایل**](https://github.com/soheilsec/mobile-App-Pentest-Interview)
+[**سوالات تست رد تیم**](https://github.com/soheilsec/RedTeam-Interview)&nbsp;&nbsp;&nbsp;[**سوالات تست بلو تیم**](https://github.com/soheilsec/Blue-Team-Interview)
 
 </div>
 
@@ -49,66 +50,65 @@ lessons learned**
 
 **لیست برخی از ابزارهای تیم بنفش:**
 
-1. 
-2. KnowBe4
-3. Ansible
-4. Carbon Black
-5. Chef
-6. Cisco Firepower Management Center
-7. Cobalt Strike
-8. CodePipeline
-9. CrowdStrike
-10. Cuckoo Sandbox
-11. Cymulate
-12. Demisto
-13. Elastic ML
-14. Elastic Security
-15. ELK Stack
-16. Empire
-17. Fortinet FortiManager
-18. GitLab
-19. Grafana
-20. Graylog
-21. IBM
-22. IBM QRadar
-23. IBM Resilient
-24. incident response playbooks
-25. Jenkins
-26. Jira
-27. Joe Sandbox
-28. Kibana
-29. Metasploit
-30. Microsoft Azure Machine Learning
-31. MISP
-32. Moloch
-33. Nagios
-34. OpenCTI
-35. Palo Alto Networks Panorama
-36. PlexTrac
-37. Prometheus
-38. Proofpoint Security Awareness Training
-39. Puppet
-40. Purplestrike
-41. QRadar
-42. Qualys Vulnerability Management
-43. Rapid7 InsightVM
-44. RSA Archer
-45. SafeBreach
-46. SentinelOne
-47. Slack
-48. SolarWinds empower teams
-49. SonarQube
-50. Splunk
-51. Splunk Enterprise
-52. Splunk Machine Learning Toolkit
-53. Splunk Phantom
-54. Sqreen
-55. STIX/TAXII
-56. Suricata
-57. Tenable Nessus
-58. ThreatConnect
-59. VirusTotal
-60. Wireshark
+1. KnowBe4
+2. Ansible
+3. Carbon Black
+4. Chef
+5. Cisco Firepower Management Center
+6. Cobalt Strike
+7. CodePipeline
+8. CrowdStrike
+9. Cuckoo Sandbox
+10. Cymulate
+11. Demisto
+12. Elastic ML
+13. Elastic Security
+14. ELK Stack
+15. Empire
+16. Fortinet FortiManager
+17. GitLab
+18. Grafana
+19. Graylog
+20. IBM
+21. IBM QRadar
+22. IBM Resilient
+23. incident response playbooks
+24. Jenkins
+25. Jira
+26. Joe Sandbox
+27. Kibana
+28. Metasploit
+29. Microsoft Azure Machine Learning
+30. MISP
+31. Moloch
+32. Nagios
+33. OpenCTI
+34. Palo Alto Networks Panorama
+35. PlexTrac
+36. Prometheus
+37. Proofpoint Security Awareness Training
+38. Puppet
+39. Purplestrike
+40. QRadar
+41. Qualys Vulnerability Management
+42. Rapid7 InsightVM
+43. RSA Archer
+44. SafeBreach
+45. SentinelOne
+46. Slack
+47. SolarWinds empower teams
+48. SonarQube
+49. Splunk
+50. Splunk Enterprise
+51. Splunk Machine Learning Toolkit
+52. Splunk Phantom
+53. Sqreen
+54. STIX/TAXII
+55. Suricata
+56. Tenable Nessus
+57. ThreatConnect
+58. VirusTotal
+59. Wireshark
 
 **شخصی که در تیم بنفش فعالیت میکند باید دانش در تیم های قرمز آبی و بنفش داشته باشد لذا سوالاتی که عموما در مصاحبه ها به آن پرداخته می شود امکان دارد در این 3 حوزه باشد که در زیر 3 بخش سعی شده از هم جدا شود و نمونه سوالات آورده شود.**
 
