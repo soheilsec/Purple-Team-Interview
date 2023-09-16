@@ -10,7 +10,7 @@
 
 ![Logo](https://user-images.githubusercontent.com/46918547/268464640-95e1ba98-69af-437a-b2cd-08c5b860515f.png)
 
-[![Telegram Channel](https://img.shields.io/endpoint?label=Channel&style=flat-square&url=https%3A%2F%2Ftg.sumanjay.workers.dev%2Flearnpentest&color=blue)](https://t.me/learnpentest) [![Youtube](https://img.shields.io/youtube/channel/views/UC5JFQgYovNP4VAC3AikAVJQ?label=Youtube&style=flat-square&logo=youtube)](https://www.youtube.com/@soheilsec) [![Youtube](https://img.shields.io/badge/Questions-2*20-Green)](https://github.com/soheilsec/Blue-Team-Interview)
+[![Telegram Channel](https://img.shields.io/endpoint?label=Channel&style=flat-square&url=https%3A%2F%2Ftg.sumanjay.workers.dev%2Flearnpentest&color=blue)](https://t.me/learnpentest) [![Youtube](https://img.shields.io/youtube/channel/views/UC5JFQgYovNP4VAC3AikAVJQ?label=Youtube&style=flat-square&logo=youtube)](https://www.youtube.com/@soheilsec) [![Youtube](https://img.shields.io/badge/Questions-3*7-Green)](https://github.com/soheilsec/Blue-Team-Interview)
 
 **نمونه سوالات مصاحبه Purple Team**
 
