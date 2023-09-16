@@ -49,67 +49,7 @@ lessons learned**
 
 ```
 
-**لیست برخی از ابزارهای تیم بنفش:**
 
-1. KnowBe4
-2. Ansible
-3. Carbon Black
-4. Chef
-5. Cisco Firepower Management Center
-6. Cobalt Strike
-7. CodePipeline
-8. CrowdStrike
-9. Cuckoo Sandbox
-10. Cymulate
-11. Demisto
-12. Elastic ML
-13. Elastic Security
-14. ELK Stack
-15. Empire
-16. Fortinet FortiManager
-17. GitLab
-18. Grafana
-19. Graylog
-20. IBM
-21. IBM QRadar
-22. IBM Resilient
-23. incident response playbooks
-24. Jenkins
-25. Jira
-26. Joe Sandbox
-27. Kibana
-28. Metasploit
-29. Microsoft Azure Machine Learning
-30. MISP
-31. Moloch
-32. Nagios
-33. OpenCTI
-34. Palo Alto Networks Panorama
-35. PlexTrac
-36. Prometheus
-37. Proofpoint Security Awareness Training
-38. Puppet
-39. Purplestrike
-40. QRadar
-41. Qualys Vulnerability Management
-42. Rapid7 InsightVM
-43. RSA Archer
-44. SafeBreach
-45. SentinelOne
-46. Slack
-47. SolarWinds empower teams
-48. SonarQube
-49. Splunk
-50. Splunk Enterprise
-51. Splunk Machine Learning Toolkit
-52. Splunk Phantom
-53. Sqreen
-54. STIX/TAXII
-55. Suricata
-56. Tenable Nessus
-57. ThreatConnect
-58. VirusTotal
-59. Wireshark
 
 **شخصی که در تیم بنفش فعالیت میکند باید دانش در تیم های قرمز آبی و بنفش داشته باشد لذا سوالاتی که عموما در مصاحبه ها به آن پرداخته می شود امکان دارد در این 3 حوزه باشد که در زیر 3 بخش سعی شده از هم جدا شود و نمونه سوالات آورده شود.**
 
